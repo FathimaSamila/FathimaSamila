@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on [..](limk)
-
-- 🤝 I’m looking for help with [...](link)
-
 - 👨‍💻 All of my projects are available at [Fathima-Samila](Fathima-Samila)
 
-- 📝 I regularly write articles on [https://samila99.hashnode.dev/](https://samila99.hashnode.dev/)
+- 📝 I regularly write articles on [samila99](https://samila99.hashnode.dev/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/samila99/**
 
