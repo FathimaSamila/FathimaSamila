@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22310811/fathima-samila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22310811/fathima-samila" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://samila99.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://samila99.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://medium.com/@s92066197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@s92066197" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/success vibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="success vibes" height="30" width="40" /></a>
+<a href="https://youtube.com/@successvibes22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="success vibes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
