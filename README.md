@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathimasamila" alt="fathimasamila" /></a> </p>
 
-- 🌱 I’m currently learning **MERN** | Search Engine Optimization
+- 🌱 I’m currently learning **MERN** | **Search Engine Optimization**
 
 - 👨‍💻 All of my projects are available at [Fathima-Samila](Fathima-Samila)
 
