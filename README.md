@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN** | **Search Engine Optimization**
 
-- 👨‍💻 All of my projects are available at [Fathima-Samila](Fathima-Samila)
+- 👨‍💻 All of my projects are available at [FathimaSamila](FathimaSamila)
 
 - 📝 I regularly write articles on [samila99](https://samila99.hashnode.dev/)
 
